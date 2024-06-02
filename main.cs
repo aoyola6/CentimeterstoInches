@@ -8,7 +8,7 @@ class Program
     static void Main(string[] args)
     {
         
-        double inches = -15; 
+        double inches = 15994; 
 
         
         double centimeters = inches * CentimetersPerInch;
